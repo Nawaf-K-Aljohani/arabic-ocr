@@ -53,6 +53,11 @@ A page of classical prose with tashkeel: «المقامة الخلفية» from 
 - Poetry layout (verse halves) and prose paragraphs
 - Works on scanned book pages
 
+## Contributors
+
+| [<img src="https://github.com/Nawaf-K-Aljohani.png" width="80" alt="Nawaf Aljohani"><br>Nawaf Aljohani](https://github.com/Nawaf-K-Aljohani) | [<img src="https://github.com/ahthl.png" width="80" alt="ahthl"><br>@ahthl](https://github.com/ahthl) |
+|:---:|:---:|
+
 ---
 
 <div dir="rtl">
